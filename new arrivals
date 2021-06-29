@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>New Arrivals - aline_inc</title>
+  </head>
+  <body>
+    <h1>aline_inc</h1>
+    <img
+      height="200"
+      src="CAMPAING/anna-elizabeth-tN91TK1kRBo-unsplash.jpg"
+      alt="image 2"
+    />
+
+    <nav>
+      <h1>New Cataloge</h1>
+      <ul>
+        <li>
+          <a href="home.html">Home</a>
+        </li>
+
+        <li>
+          <a href="New Arrivals.html">New Arrivals</a>
+        </li>
+
+        <li>
+          <a href="Categori.html">Categori</a>
+        </li>
+
+        <li>
+          <a href="Login.html">Login</a>
+        </li>
+      </ul>
+    </nav>
+
+    <section>
+      <div>
+        <h1>Produk Terbaru</h1>
+        <p>
+          Dapatkan Catalog terbaru dari kami dengan tambahan
+          <strong>discond yang bombastis</strong>
+        </p>
+      </div>
+
+      <div>
+        <table>
+          <tr>
+            <th>
+              <i>Product</i>
+            </th>
+            <th>
+              <i>Price</i>
+            </th>
+            <th>
+              <i>Features</i>
+            </th>
+          </tr>
+
+          <tr>
+            <td>Yakiman Bag</td>
+            <td>
+              <u>IDR. 320.000</u>
+            </td>
+            <td>
+              <ul>
+                <li>Anti air</li>
+                <li>Banyak Penyimpanan</li>
+              </ul>
+            </td>
+          </tr>
+
+          <tr>
+            <td>Ging Sling Bag</td>
+            <td>
+              <u>IDR. 410.000</u>
+            </td>
+            <td>
+              <ul>
+                <li>
+                  <strong>Anti air</strong>
+                </li>
+                <li>
+                  <strong>
+                    <font color="blue">Banyak Penyimpanan</font>
+                  </strong>
+                </li>
+                <li>
+                  <strong>
+                    <font color="blue">Slot USB Charger</font>
+                  </strong>
+                </li>
+                <li>
+                  <strong>Slot Headset</strong>
+                </li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </section>
+
+    <footer>
+      <p>© 2021-2023 alinea Project</p>
+    </footer>
+  </body>
+</html>
